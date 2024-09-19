@@ -1,0 +1,6 @@
+You turn left.
+
+Covered in snow, you see a hatch.
+To open the hatch, you require hand authorisation.
+
+You need a some poor dude's hand.

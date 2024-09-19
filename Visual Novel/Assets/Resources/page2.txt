@@ -1,0 +1,5 @@
+You turn right.
+
+There's an entrance to a long, dark hallway that contrasts with the light, snowy atmosphere.
+
+You could enter the dark hallway, or you could walk away.

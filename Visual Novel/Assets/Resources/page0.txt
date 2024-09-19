@@ -1,0 +1,6 @@
+The snowy base is cold and quiet, as usual.
+
+You walk past the cargo containers, ears perked, eyes scanning.
+
+You can go left, or right.
+`goto|1|Go Left_goto|2|Go Right
